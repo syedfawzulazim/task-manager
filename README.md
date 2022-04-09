@@ -1,3 +1,3 @@
 # task-manager
 
-Express NodeJs Project
+Express NodeJs Project with MongoDB
